@@ -25,3 +25,5 @@ The setup included:
   - 2 x 220 Ω resistor (one for the blue chanel, and one for the green chanel)
   - 14 x short/medium cable 
   - 1 x USB A to B cable
+
+<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/rgb_led_setup.jpg" width="500px">
