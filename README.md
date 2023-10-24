@@ -7,3 +7,7 @@ This repository is a *comprehensive collection* of my work completed during the 
 ## Homework 1
 
 The first homework involved creating the current repository, making it private, providing access to ten github users (nine teacher assistants and the course professor) and writing a succinct yet creative `README.md`. 
+
+## Homework 2
+
+This assignment focused on controlling the intensity of each color of an RGB LED with an individual potentiometer. 
