@@ -27,3 +27,5 @@ The setup included:
   - 1 x USB A to B cable
 
 <img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/rgb_led_setup.jpg" width="500px">
+
+YouTube video: https://youtu.be/zIxEojEt65U?si=s0HmiYX0PCU4duPW
