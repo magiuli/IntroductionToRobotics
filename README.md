@@ -52,3 +52,5 @@ The setup included:
   - 1 x USB A to B cable
 
 <img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/elevator-simulator.jpg" width="500px">
+
+<a href="https://youtu.be/9KkHAXNGIgo?si=v4Pa6Egs84MHOEgk">YouTube video</a>
