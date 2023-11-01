@@ -51,5 +51,4 @@ The setup included:
   - 13 x short cable 
   - 1 x USB A to B cable
 
-<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/elevator-simulator
-  .jpg" width="500px">
+<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/elevator-simulator.jpg" width="500px">
