@@ -37,3 +37,19 @@ The setup included:
 This assignment involved simulating a 3-floor elevator control system using LEDs, buttons, and a buzzer with an Arduino. Each LED and button represents one of the three floors, with the LED corresponding to the current floor lighting up.Additionally, there is a 4th LED that signifies the operational state of the elevator: it blinks when the elevator is in motion and remains off when stationary. When the elevator begins moving, it 'closes the doors,' 'travels' to the desired floor, and announces 'the arrival.' Each of these quoted actions has its corresponding sound.
 
 While the elevator is stationary, pressing the button for the current floor results in no action. However, pressing a button while the elevator is in motion places the requested floor in a queue for following action.
+
+### Setup
+The setup included:
+  - arduino uno board
+  - medium breadboard
+  - 3 x blue LED
+  - 1 x red LED
+  - 1 x active buzzer
+  - 3 x button
+  - 2 x 220 Ω resistor (one for the red LED and one for the zctive buzzer)
+  - 3 x 1000 Ω resistor (one for each blue led)
+  - 13 x short cable 
+  - 1 x USB A to B cable
+
+<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/elevator-simulator
+  .jpg" width="500px">
