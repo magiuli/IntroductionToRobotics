@@ -51,6 +51,26 @@ The setup included:
   - 13 x short cable 
   - 1 x USB A to B cable
 
-<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/elevator-simulator.jpg" width="500px">
+<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/elevator_simulator.jpg" width="500px">
 
 <a href="https://youtu.be/9KkHAXNGIgo?si=v4Pa6Egs84MHOEgk">YouTube video</a>
+
+## Homework 4
+
+### Task assignment
+
+This homework assignment involves controlling a 7-segment display using a joystick. The joystick allows you to move the active segment and "draw" on the display. The movement between segments is restricted to natural transitions, meaning the segment can only jump to neighboring positions without passing through "walls."Here are the key functionalities of the assignment:
+ 
+  - The initial position of the segment is at the decimal point (DP).
+  - The current segment always blinks, regardless of its state (on or off).
+  - Use the joystick to move the current position to neighboring segments, based on a predefined table of corresponding movements.
+  - A short press of the joystick button toggles the state of the current segment from ON to OFF or from OFF to ON.
+  - A long press of the joystick button resets the entire display by turning off all the segments and moving the current position back to the decimal point (DP).
+
+### Setup
+The setup included:
+
+
+<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/7_segment_display_drawing.jpg" width="500px">
+
+<a href="https://youtu.be/WPqnlEvLR50?si=wX0zil5kxOrX1RIY">YouTube video</a>
