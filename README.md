@@ -69,7 +69,16 @@ This homework assignment involves controlling a 7-segment display using a joysti
 
 ### Setup
 The setup included:
-
+  - arduino uno board
+  - medium breadboard
+  - 1 x 7 segment display
+  - 1 x joystick
+  - 1 x active buzzer
+  - 6 x 330 Ω resistor (for 6 of the segments. Dindn't have more)
+  - 3 x 220 Ω resistor (2 for the remaining segments, 1 for the active buzzer)
+  - 5 male to female wires
+  - 20 male to male wires
+  - 1 x USB A to B cable
 
 <img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/7_segment_display_drawing.jpg" width="500px">
 
