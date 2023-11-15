@@ -116,4 +116,4 @@ The setup included:
 
 <img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/stopwatch_timer.jpg" width="500px">
 
-<a href="">YouTube video</a>
+<a href="https://youtu.be/kyaXbSkF6j8?si=5nbyd3CZajmmYpwQ">YouTube video</a>
