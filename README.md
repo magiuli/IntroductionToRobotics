@@ -83,3 +83,37 @@ The setup included:
 <img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/7_segment_display_drawing.jpg" width="500px">
 
 <a href="https://youtu.be/WPqnlEvLR50?si=wX0zil5kxOrX1RIY">YouTube video</a>
+
+## Homework 5
+
+### Task assignment
+
+This assignment involved the creation of a stopwatch timer utilizing a 4-digit 7-segment display along with three distinct buttons.
+The timer measures in tenths of seconds, indicated by a decimal point before the last digit, and includes a functionality to save laps. When initiated, 
+the timer displays all digits, showcasing "000.0" at the outset.
+
+It allows for the storage of up to four laps. In lap viewing mode, continously pressing of the Save Lap button cycles through the saved laps.
+
+Each button holds a unique functionality:
+  - Button 1: Start/Pause
+  - Button 2: Save Lap (in counting mode) / Cycle through saved laps (in lap viewing mode)
+  - Button 3: Reset Time (in pause mode) / Reset saved laps (in lap viewing mode)
+
+Notably, not all buttons are available at all times. The reset button remains inaccessible during counting mode, while the Start/Pause button is unavailable 
+in lap viewing mode, only accessible post resetting the timer. Upon entering lap viewing mode, counting mode becomes accessible solely after resetting the saved laps.
+
+### Setup
+The setup included:
+  - 1 x arduino uno board
+  - 1 x medium breadboar
+  - 1 x small breadboard
+  - 1 x 4 digits 7 segment display
+  - 1 x shift Register 74HC595
+  - 3 x button
+  - 8 x 220 Ω resistor (one for each segment)
+  - many wires
+  - 1 x USB A to B cable
+
+<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/stopwatch_timer.jpg" width="500px">
+
+<a href="">YouTube video</a>
