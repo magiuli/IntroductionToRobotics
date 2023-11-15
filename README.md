@@ -111,6 +111,8 @@ The setup included:
   - 1 x shift Register 74HC595
   - 3 x button
   - 8 x 220 Ω resistor (one for each segment)
+  - 3 x blue LED
+  - 3 X 2000 Ω resistor (one for each blue LED) 
   - many wires
   - 1 x USB A to B cable
 
