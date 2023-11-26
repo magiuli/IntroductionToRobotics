@@ -145,3 +145,20 @@ Navigation through menus and submenus is accomplished via user input. It's impor
    - Manual Color Control
    - LED: Toggle Automatic ON/OFF
    - Back
+
+### Setup
+The setup included:
+  - 1 x arduino uno board
+  - 1 x medium breadboar
+  - 1 x ultrasonic sensor HC-SR04
+  - 1 x phtoresistor
+  - 1 x RGB LED
+  - 2 x 220 Ω resistor (for the green and blue channels)
+  - 1 X 330 Ω resistor (for the red channel) 
+  - 1 X 10.000 Ω resistor (for the photoresistor) 
+  - many wires
+  - 1 x USB A to B cable
+
+<img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/smart_environment.jpg" width="500px">
+
+<a href="https://youtu.be/0wYT6sCTUWk?si=FK4IBz017NZ8NV7G">YouTube video</a>
