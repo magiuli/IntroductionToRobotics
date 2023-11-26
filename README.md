@@ -119,3 +119,29 @@ The setup included:
 <img src="https://github.com/magiuli/IntroductionToRobotics/blob/main/Homework/Assets/stopwatch_timer.jpg" width="500px">
 
 <a href="https://youtu.be/kyaXbSkF6j8?si=5nbyd3CZajmmYpwQ">YouTube video</a>
+
+# Homework 5
+
+## Task assignment
+
+This assignment involved utilizing multiple sensors to gather environmental data, adjusting sensor settings, logging these configurations into EEPROM, and offering visual feedback using an RGB LED. Additionally, user interaction is facilitated through a Start Menu. An ultrasonic sensor (HC-SR04) and a photoresistor are employed for environmental data collection. Specific alerts are displayed on the Serial Monitor when the readings fall below predefined thresholds. If the Automatic LED mode is enabled, the LED indicates an active alert by turning red; otherwise, it remains green.
+
+Navigation through menus and submenus is accomplished via user input. It's important to note that error handling has been implemented to address invalid or out-of-bounds inputs, ensuring a smoother user experience.
+
+### Menu structure and options
+1. Sensor Settings
+   - Sensor Sampling Interval
+   - Ultrasonic Alert Threshold
+   - LDR Alert Threshold
+   - Back
+2. Reset Logger Data
+   - Yes
+   - No
+3. System status
+   - Current Sensor Readings
+   - Current Sensor Settings
+   - Back
+4. RGB LED Control
+   - Manual Color Control
+   - LED: Toggle Automatic ON/OFF
+   - Back
